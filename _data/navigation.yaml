@@ -1,0 +1,8 @@
+- name: About
+  link: /about.html
+- name: Committee
+  link: /committee.html
+- name: Our Services
+  link: /our-services.html
+- name: Sign Up
+  link: https://signup.netsoc.com

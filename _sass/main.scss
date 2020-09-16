@@ -1,0 +1,96 @@
+$header-background-colour: #424242;
+$accent-colour: #3f67e0;
+$primary-text-colour: #ffffff;
+$light-colour: #6d6d6d;
+
+$background-outer: #9c9b9b;
+$background-inner: #f5f3f3;
+
+$darken-content-background-percent: 1%;
+
+$lighten-hover-percent: 10%;
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.content-wrapper-container {
+  display: grid; 
+  grid-template-columns: 1fr 8fr 1fr; 
+  background: radial-gradient($background-inner,$background-outer); 
+  height: 100%;
+  overflow-y: hidden;
+}
+
+.content-wrapper {
+  padding-top: 2rem;
+  grid-column: 2;  
+  padding-left: 2rem; 
+  padding-right: 2rem;
+}
+
+.content-container {
+  border-radius: 0.2rem;
+  padding: 2rem;
+  background-color: darken($background-outer, $darken-content-background-percent);
+}
+
+.content-styles {
+  a {
+    color: $accent-colour;
+    text-decoration: none;
+  }
+  a:hover {
+    color: lighten($accent-colour, $lighten-hover-percent);
+  }
+}
+
+.nav-font-styles {
+  color: $primary-text-colour;
+  font-size: 1.3rem;
+}
+
+.splash-link {
+  display: block;
+  text-align: center;
+  color: $accent-colour;
+  text-decoration: none;
+}
+
+.splash-link:hover {
+  color: lighten($accent-colour, $lighten-hover-percent);
+  text-decoration: none;
+}
+
+.accent-bar {
+  height: 0.3rem; 
+  width: 100%; 
+  background-color: $accent-colour;
+}
+
+// yoinked from https://www.30secondsofcode.org/css/s/hover-underline-animation
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: $primary-text-colour;
+}
+
+.hover-underline-animation:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: $accent-colour;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
