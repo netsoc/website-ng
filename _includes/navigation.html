@@ -1,6 +1,6 @@
 {% include accent-bar.html %}
 <div style='padding:0rem;'>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark nav-bg">
     <a href='/'>
       <img src="/assets/images/netsoc-logo.svg" style="height: 3rem;margin-right: 3rem;" class="navbar-brand" />
     </a>
@@ -12,7 +12,7 @@
     <div class="collapse navbar-collapse" id="navbarColor02">
       <ul class="navbar-nav mr-auto">
         {% for item in site.data.navigation %}
-        <li class="nav-item"> <a class="nav-font-styles nav-link hover-underline-animation" href="{{ item.link }}" data-abc="true">{{item.name}}</a> </li>
+        <li class="nav-item"> <a class="nav-font-styles nav-link hover-underline-animation {% if item.link == page.url %} selected-navlink {% endif %}" href="{{ item.link }}" data-abc="true">{{item.name}}</a> </li>
         {% endfor %}
       </ul>
     </div>

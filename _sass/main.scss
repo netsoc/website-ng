@@ -1,12 +1,13 @@
-$header-background-colour: #424242;
+$header-background-colour: #7e7e7e;
 $accent-colour: #3f67e0;
 $primary-text-colour: #ffffff;
+$nav-text-hover-colour: rgba(255,255,255,.75);
 $light-colour: #6d6d6d;
 
-$background-outer: #9c9b9b;
-$background-inner: #f5f3f3;
+$background-outer: #e6e6e6;
+$background-inner: #ffffff;
 
-$darken-content-background-percent: 1%;
+$darken-content-background-percent: 7%;
 
 $lighten-hover-percent: 10%;
 
@@ -52,6 +53,10 @@ body {
   font-size: 1.3rem;
 }
 
+.nav-bg {
+  background-color: $header-background-colour;
+}
+
 .splash-link {
   display: block;
   text-align: center;
@@ -68,6 +73,22 @@ body {
   height: 0.3rem; 
   width: 100%; 
   background-color: $accent-colour;
+}
+
+.selected-navlink {
+  color: $nav-text-hover-colour !important;
+}
+
+.selected-navlink:after {
+  content: '' !important;
+  position: absolute !important;
+  width: 80% !important;
+  transform: scaleX(1) !important;
+  height: 2px !important;
+  bottom: 0 !important;
+  left: 10% !important;
+  background-color: $accent-colour !important;
+  transform-origin: bottom left !important;
 }
 
 // yoinked from https://www.30secondsofcode.org/css/s/hover-underline-animation
