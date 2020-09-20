@@ -4,7 +4,7 @@ description: TCD's Internet Society
 keywords: netsoc, tcd, tcd netsoc
 
 baseurl: ""
-url: "netsoc.tcd.ie" 
+url: "netsoc.tcd.ie"
 
 author:
   github: https://github.com/netsoc
@@ -27,7 +27,9 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - docker-compose.yaml
+  - docker/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

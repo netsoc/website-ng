@@ -1,0 +1,11 @@
+version: '3'
+services:
+  app:
+    image: ghcr.io/netsoc/website:dev
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.dev
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
