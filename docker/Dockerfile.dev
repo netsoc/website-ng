@@ -1,4 +1,4 @@
 FROM jekyll/jekyll:4
 
-COPY entrypoint.dev.sh /
+COPY docker/entrypoint.dev.sh /
 ENTRYPOINT ["/entrypoint.dev.sh"]
