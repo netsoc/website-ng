@@ -2,3 +2,4 @@ FROM jekyll/jekyll:4
 
 COPY docker/entrypoint.dev.sh /
 ENTRYPOINT ["/entrypoint.dev.sh"]
+CMD ["--drafts"]

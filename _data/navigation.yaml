@@ -1,8 +1,8 @@
 - name: About
-  link: /about.html
+  link: /about/
 - name: Committee
-  link: /committee.html
+  link: /committee/
 - name: Our Services
-  link: /our-services.html
+  link: /services/
 - name: Sign Up
-  link: https://signup.netsoc.com
+  link: https://accounts.netsoc.ie/signup

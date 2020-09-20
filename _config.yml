@@ -3,16 +3,13 @@ email: internet@csc.tcd.ie
 description: TCD's Internet Society
 keywords: netsoc, tcd, tcd netsoc
 
-baseurl: ""
-url: "netsoc.tcd.ie"
+baseurl: ''
+url: 'netsoc.ie'
 
 author:
   github: https://github.com/netsoc
   twitter: https://twitter.com/netsoc
   facebook: https://www.facebook.com/dunetsoc
-
-signup:
-  link: https://signup.netsoc.com
 
 # Build settings
 theme: minima

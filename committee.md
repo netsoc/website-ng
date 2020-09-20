@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Committee
+permalink: /committee/
 ---
 We are Netsoc, TCD's Internet Society.
 
@@ -9,7 +10,7 @@ We are Netsoc, TCD's Internet Society.
 - Chair: Senán d'Art
 - Secretary: Neil Kilbane
 - Treasurer: Charlie Christiansson
-- Webmaster: Jack O'Sullivan 
+- Webmaster: Jack O'Sullivan
 - Events Officers: Ahmed Hamed Aly
 - InterSocs Officer: Adam Teehan
 - PRO: Kevin Troisi
