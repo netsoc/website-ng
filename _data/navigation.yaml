@@ -4,5 +4,8 @@
   link: /committee/
 - name: Our Services
   link: /services/
+- name: Migration
+  link: /migration/
 - name: Sign Up (coming soon™️)
   link: https://accounts.netsoc.ie/signup
+  new_tab: true

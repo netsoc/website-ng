@@ -8,11 +8,16 @@
       aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    
+
     <div class="collapse navbar-collapse" id="navbarColor02">
       <ul class="navbar-nav mr-auto">
         {% for item in site.data.navigation %}
-        <li class="nav-item"> <a class="nav-font-styles nav-link hover-underline-animation {% if item.link == page.url %} selected-navlink {% endif %}" href="{{ item.link }}" data-abc="true">{{item.name}}</a> </li>
+        <li class="nav-item">
+          <a class="nav-font-styles nav-link hover-underline-animation {% if item.link == page.url %} selected-navlink {% endif %}"
+             href="{{ item.link }}"{% if item.new_tab %}target="_blank" {% endif %} data-abc="true">
+            {{item.name}}
+          </a>
+        </li>
         {% endfor %}
       </ul>
     </div>
