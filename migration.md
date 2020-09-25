@@ -34,5 +34,7 @@ migrated automatically!
 We're still working on the final infrastructure for new webspaces, but we'll be updating this page (and sending out
 notifications) when everything is ready.
 
+**🚨 Corporate Speak Incoming 🚨**
+
 _We apologise for the inconvenience this will cause but we firmly believe that this migration will deliver a
 significantly better user experience and allow us to better maintain our servers and services in the future._
