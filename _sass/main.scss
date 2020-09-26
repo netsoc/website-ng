@@ -1,7 +1,7 @@
 $header-background-colour: #7e7e7e;
 $accent-colour: #3f67e0;
 $primary-text-colour: #ffffff;
-$nav-text-hover-colour: rgba(255,255,255,.75);
+$nav-text-hover-colour: rgba(255, 255, 255, 0.75);
 $light-colour: #6d6d6d;
 
 $background-outer: #e6e6e6;
@@ -14,15 +14,20 @@ $lighten-hover-percent: 10%;
 html,
 body {
   height: 100%;
+  width: 100%;
+  overflow-y: scroll;
   margin: 0;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
 }
 
 .content-wrapper-container {
   display: grid;
   grid-template-columns: 1fr 8fr 1fr;
-  background: radial-gradient($background-inner,$background-outer);
-  height: 100%;
-  overflow-y: scroll;
+  background: radial-gradient($background-inner, $background-outer);
+  overflow-y: visible;
+  flex: 1 1 auto;
 }
 
 .content-wrapper {
@@ -80,7 +85,7 @@ body {
 }
 
 .selected-navlink:after {
-  content: '' !important;
+  content: "" !important;
   position: absolute !important;
   width: 80% !important;
   transform: scaleX(1) !important;
@@ -99,7 +104,7 @@ body {
 }
 
 .hover-underline-animation:after {
-  content: '';
+  content: "";
   position: absolute;
   width: 100%;
   transform: scaleX(0);
