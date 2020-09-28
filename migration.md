@@ -16,7 +16,8 @@ inaccessible** after the **31st of October 2020**.
 
 The most important bits:
 
-  - Download anything stored on `spoon` or `cube` (will be **deleted** after 2020-10-31)
+  - Download anything stored on `spoon` or `cube`, including your webspace. You can log in with your existing account
+    details. Everything will be **deleted** after 2020-10-31!
   - Sign up for a new Netsoc account <a href="https://accounts.netsoc.ie/signup" target="_blank">here</a> with your
     existing username (you'll need an admin to help you with this, as _all current Netsoc usernames have been reserved_ -
     email [support@netsoc.ie](mailto:support@netsoc.ie). You can sign up with a different username and we can change
