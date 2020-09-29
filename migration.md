@@ -23,8 +23,8 @@ The most important bits:
     email [support@netsoc.ie](mailto:support@netsoc.ie). You can sign up with a different username and we can change
     your username back to the existing one)
   - Migrate your website to next-gen webspaces (details to come over the next few weeks!)
-  - Matrix chat accounts and history will remain, _but_ will require a 2020 Netsoc account after the **2nd of October**
-  (make sure to sign up with your existing username!)
+  - Matrix chat accounts and history will remain, _but_ now require a 2020 Netsoc account (make sure to sign up with
+    your existing username!)
 
 ## Next-gen webspaces?
 
