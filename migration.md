@@ -22,8 +22,9 @@ The most important bits:
     existing username (you'll need an admin to help you with this, as _all current Netsoc usernames have been reserved_ -
     email [support@netsoc.ie](mailto:support@netsoc.ie). You can sign up with a different username and we can change
     your username back to the existing one)
-  - Migrate your website to next-gen webspaces (details to come over the next few weeks!)
-  - Matrix chat accounts and history will remain, _but_ now require a 2020 Netsoc account (make sure to sign up with
+  - Migrate your website to next-gen webspaces (see [here](https://docs.netsoc.ie/webspaced/) for info on next-gen
+    webspaces)
+  - Matrix chat accounts and history will remain, _but_ now requires a 2020 Netsoc account (make sure to sign up with
     your existing username!)
 
 ## Next-gen webspaces?
@@ -33,8 +34,7 @@ Current web hosting will be replaced by the long-awaited next-gen release (re-wr
 Since they're just Linux machines, you'll be able store files in your new webspace, but existing data will not be
 migrated automatically!
 
-We're still working on the final infrastructure for new webspaces, but we'll be updating this page (and sending out
-notifications) when everything is ready.
+You can find out more about setting up next-gen webspaces [here](https://docs.netsoc.ie/webspaced/).
 
 **🚨 Corporate Speak Incoming 🚨**
 

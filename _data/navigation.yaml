@@ -6,9 +6,11 @@
   link: /services/
 - name: Migration
   link: /migration/
-- name: Log In
+- name: Documentation
+  link: https://docs.netsoc.ie/
+- name: Log in
   link: https://accounts.netsoc.ie/
   new_tab: true
-- name: Sign Up
+- name: Sign up
   link: https://accounts.netsoc.ie/signup
   new_tab: true
