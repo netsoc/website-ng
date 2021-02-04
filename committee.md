@@ -14,6 +14,6 @@ We are Netsoc, TCD's Internet Society.
 - Events Officers: Ahmed Hamed Aly
 - InterSocs Officer: Adam Teehan
 - PRO: Kevin Troisi
-- General Officers: Breadman, Nicky Pochinkov
+- General Officers: Breadman, Nicky Pochinkov, David Green, Rían Errity
 
 <!-- You can view previous committees [here](previous-committees). -->
