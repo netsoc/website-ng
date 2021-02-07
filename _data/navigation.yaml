@@ -12,3 +12,5 @@
 - name: Sign up
   link: https://accounts.netsoc.ie/signup
   new_tab: true
+- name: Terms
+  link: /tos/

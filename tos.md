@@ -1,0 +1,43 @@
+---
+layout: default
+title: Terms
+permalink: /tos/
+---
+
+# Terms and Conditions
+
+## Terms of Service
+
+Netsoc’s services are provided to members and partnered societies, under the
+following terms:
+
+- No posting or hosting of inappropriate or illegal content
+- No attempting to bypass Netsoc security or attack infrastructure (we welcome
+  responsible disclosure and bug reports!)
+- No use of services outside reasonable resource limits (e.g. cryptocurrency
+  mining)
+
+Any breach of the above policy may result in termination of the user account at
+Netsoc’s discretion.
+
+## Privacy Policy
+
+Netsoc respects the privacy of its users. However, Netsoc system administrators
+retain full access to any and all content uploaded to Netsoc servers. This
+includes any data in:
+
+- Your user account details (name, email, etc.)
+- Unencrypted Matrix messages
+- Your webspace
+
+_Users processing sensitive information should keep this in mind when using
+Netsoc hosting._
+
+Should you wish to remove all your data from Netsoc servers, use the account
+deletion function in the accounts page to permanently remove (a) your webspace,
+(b) Matrix messages and (c) your user account details.
+
+### Automatic deletion
+
+**In the event that an account is not renewed for 2 consecutive years, your
+account will be permanently deleted (as described above).**
