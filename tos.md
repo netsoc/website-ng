@@ -20,6 +20,8 @@ following terms:
 Any breach of the above policy may result in termination of the user account at
 Netsoc’s discretion.
 
+Usage of the services provided by Netsoc is subject to the IT Services [privacy and security policies](https://www.tcd.ie/ITSecurity/policies/supporting-policies.php) as well as TCD [IT and Network Code of Conduct](https://www.tcd.ie/about/policies/it_and_network_code_of_conduct.php).
+
 ## Privacy Policy
 
 Netsoc respects the privacy of its users. However, Netsoc system administrators
@@ -32,6 +34,10 @@ includes any data in:
 
 _Users processing sensitive information should keep this in mind when using
 Netsoc hosting._
+
+Data stored on Netsoc servers remains solely within the TCD network and will never be shared with third parties.
+
+
 
 Should you wish to remove all your data from Netsoc servers, use the account
 deletion function in the accounts page to permanently remove (a) your webspace,
