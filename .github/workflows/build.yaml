@@ -42,7 +42,7 @@ jobs:
           file: docker/Dockerfile
           load: true
           tags: |
-            ${{ env.REPO }}${{ steps.vars.outputs.tag }}
+            ${{ env.REPO }}:${{ steps.vars.outputs.tag }}
             ${{ env.REPO }}:latest
 
       # Pushing to an existing tag doesn't seem to work with buildx :(
