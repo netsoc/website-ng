@@ -11,3 +11,5 @@ RUN rm /etc/nginx/conf.d/*
 COPY docker/nginx.conf /etc/nginx/conf.d/site.conf
 
 COPY --from=builder /tmp/_site /srv/site
+
+LABEL org.opencontainers.image.source https://github.com/netsoc/website-ng
