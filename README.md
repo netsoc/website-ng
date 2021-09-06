@@ -1,6 +1,6 @@
 # website-ng
 
-Our new Jekyll-based website.
+Our new Jekyll-based website. See the [dedicated documentation](https://docs.netsoc.ie/website/) for more details.
 
 ## Editing content
 

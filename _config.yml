@@ -29,6 +29,7 @@ plugins:
 exclude:
   - docker-compose.yaml
   - docker/
+  - docs/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
