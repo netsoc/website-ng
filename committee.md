@@ -11,7 +11,9 @@ We are Netsoc, TCD's Internet Society.
 - Secretary: David Green
 - Treasurer: Rían Errity
 - PRO: Nicky Pochinkov
+- Events Officer: Yuuv Jauhari
 - InterSocs Officer: Matteo McGuinness
+- Webmaster: Rishi Manu
 
 ### Committee 2020/21:
 
