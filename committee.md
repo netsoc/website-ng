@@ -14,6 +14,7 @@ We are Netsoc, TCD's Internet Society.
 - Events Officer: Yuuv Jauhari
 - InterSocs Officer: Matteo McGuinness
 - Webmaster: Rishi Manu
+- Ordinary Committee Members: Maïlé Monteiro da Rocha, Ruaidhri Saulnier
 
 ### Committee 2020/21:
 
@@ -24,6 +25,6 @@ We are Netsoc, TCD's Internet Society.
 - Events Officer: Ahmed Hamed Aly
 - InterSocs Officer: Adam Teehan
 - Webmaster: Jack O'Sullivan
-- General Officers: Breadman, Nicky Pochinkov, David Green, Rían Errity
+- Ordinary Committee Members: Breadman, Nicky Pochinkov, David Green, Rían Errity
 
 <!-- You can view previous committees [here](previous-committees). -->
