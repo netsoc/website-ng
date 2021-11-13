@@ -3,16 +3,14 @@ layout: default
 title: Committee
 permalink: /committee/
 ---
-We are Netsoc, TCD's Internet Society.
-
 ### Committee 2021/22:
 
 - Chair: Neil Kilbane
-- Secretary: David Green
+- Secretary: David Green (resigned)
 - Treasurer: Rían Errity
 - PRO: Nicky Pochinkov
 - Events Officer: Yuuv Jauhari
-- InterSocs Officer: Matteo McGuinness
+- InterSocs Officer: Matteo McGuinness (resigned)
 - Webmaster: Rishi Manu
 - Ordinary Committee Members: Maïlé Monteiro da Rocha, Ruaidhri Saulnier
 
