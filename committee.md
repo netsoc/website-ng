@@ -10,7 +10,7 @@ permalink: /committee/
 - Treasurer: Rían Errity
 - PRO: Nicky Pochinkov
 - Events Officer: Yuuv Jauhari
-- InterSocs Officer: Matteo McGuinness (resigned)
+- InterSocs Officer: Nicholas Evans
 - Webmaster: Rishi Manu
 - Ordinary Committee Members: Maïlé Monteiro da Rocha, Ruaidhri Saulnier
 
