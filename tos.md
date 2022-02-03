@@ -51,5 +51,4 @@ deletion function in the accounts page to permanently remove (a) your webspace,
 
 ### Automatic deletion
 
-**In the event that an account is not renewed for 2 consecutive years, your
-account will be permanently deleted (as described above).**
+**Should you not renew your account in the subsequent academic year, your account and associated data will be permanently deleted, as described above.**
