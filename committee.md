@@ -3,26 +3,12 @@ layout: default
 title: Committee
 permalink: /committee/
 ---
-### Committee 2021/22:
+### Committee 2022/23:
 
-- Chair: Neil Kilbane
-- Secretary: David Green (resigned)
-- Treasurer: Rían Errity
-- PRO: Nicky Pochinkov
-- Events Officer: Yuuv Jauhari
-- InterSocs Officer: Niko Evans
-- Webmaster: Rishi Manu
-- Ordinary Committee Members: Maïlé Monteiro da Rocha, Ruaidhri Saulnier
-
-### Committee 2020/21:
-
-- Chair: Senán d'Art
-- Secretary: Neil Kilbane
-- Treasurer: Charlie Christiansson
-- PRO: Kevin Troisi
-- Events Officer: Ahmed Hamed Aly
-- InterSocs Officer: Adam Teehan
-- Webmaster: Jack O'Sullivan
-- Ordinary Committee Members: Breadman, Nicky Pochinkov, David Green, Rían Errity
-
-<!-- You can view previous committees [here](previous-committees). -->
+- Chair: Yuuv Jauhari
+- Secretary: Rishi Manu
+- Treasurer: Maïlé Monteiro da Rocha
+- PRO: Peter Rolfe
+- Amenities Officer: Kate O'Neill
+- Webmaster: Neil Kilbane
+- Ordinary Committee Members: Alexander
